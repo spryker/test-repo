@@ -1,6 +1,6 @@
 {
     "name": "spryker/test-repo",
     "require": {
-        "spryker/split-test": "1.0.0-alpha9"
+        "spryker/split-test": "1.0.0-alpha10"
     }
 }
